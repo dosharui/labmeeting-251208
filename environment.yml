@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - matplotlib
+  - pytorch
   - pandas
   - bokeh
   - rise
